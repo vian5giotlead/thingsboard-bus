@@ -1,0 +1,40 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : "for test version control"
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "99f13100-6bca-11ed-830a-db51e0c18919"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "3fa722f0-6bc9-11ed-830a-db51e0c18919"
+    },
+    "label" : null,
+    "name" : "VBUS",
+    "type" : "bus"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : 24.97695,
+      "jsonValue" : null,
+      "key" : "lat",
+      "lastUpdateTs" : 1669274802718,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : 121.55107,
+      "jsonValue" : null,
+      "key" : "long",
+      "lastUpdateTs" : 1669274815703,
+      "longValue" : null,
+      "strValue" : null
+    } ]
+  }
+}

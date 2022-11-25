@@ -1,0 +1,29 @@
+{
+  "entityType" : "CUSTOMER",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : "test customer for version control",
+      "homeDashboardId" : "43041e90-6ae2-11ed-830a-db51e0c18919",
+      "homeDashboardHideToolbar" : true
+    },
+    "address" : null,
+    "address2" : null,
+    "city" : null,
+    "country" : null,
+    "email" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "CUSTOMER",
+      "id" : "99f13100-6bca-11ed-830a-db51e0c18919"
+    },
+    "name" : "BUSER",
+    "phone" : null,
+    "state" : null,
+    "title" : "BUSER",
+    "zip" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
