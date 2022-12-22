@@ -4,6 +4,10 @@
     "additionalInfo" : {
       "description" : "for test version control"
     },
+    "assetProfileId" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "b6d4b620-75d9-11ed-b51c-0939af983e2c"
+    },
     "customerId" : {
       "entityType" : "CUSTOMER",
       "id" : "99f13100-6bca-11ed-830a-db51e0c18919"
